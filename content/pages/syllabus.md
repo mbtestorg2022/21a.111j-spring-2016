@@ -24,12 +24,57 @@ Classes will integrate lecture and discussion. Each class is keyed to a set of r
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation / reader responses | 25% |
-| Argumentative essay 1 | 25% |
-| Argumentative essay 2 | 25% |
-| Argumentative essay 3 | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation / reader responses
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Argumentative essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Argumentative essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Argumentative essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Participation
 
