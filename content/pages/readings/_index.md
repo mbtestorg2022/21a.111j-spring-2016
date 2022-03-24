@@ -296,7 +296,7 @@ Davis, Maxine. "The Importance of Sexual Harmony." Chapter 2 in _The Sexual Resp
 
 Hugh Hefner's inaugural editorial statement. _Playboy_, December 1953.
 
-Katz, Jonathan Ned. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Invention of Heterosexuality." (PDF)](http://english101sp2015.files.wordpress.com/2015/03/jonathan-katz_the-invention-of-heterosexuality.pdf) _Socialist Review_ 20, no. 1 (1990): 7–33.
+Katz, Jonathan Ned. ["The Invention of Heterosexuality." (PDF)](http://english101sp2015.files.wordpress.com/2015/03/jonathan-katz_the-invention-of-heterosexuality.pdf) _Socialist Review_ 20, no. 1 (1990): 7–33.
 
 Rich, Adrienne. "Compulsory Heterosexuality and the Lesbian Continuum." In _Women-Sex and Sexuality_. Edited by Catharine R. Stimpson and Ethel Spector Person. University of Chicago Press, 1980. ISBN: 9780226774763.
 
@@ -342,7 +342,7 @@ Kleinfield, N. R. "[Baby Makes Four, and Complications](http://www.nytimes.com/2
 
 _Justice Kennedy's majority opinion on marriage equality (read prologue + pp. 1–22):_
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Obergefell et al. v. Hodges, Director, Ohio Department of Health, et al., No. 14–556. (PDF)](http://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf) Argued April 28, 2015 – Decided June 26, 2015.
+[Obergefell et al. v. Hodges, Director, Ohio Department of Health, et al., No. 14–556. (PDF)](http://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf) Argued April 28, 2015 – Decided June 26, 2015.
 
 
 {{< tdclose >}}
